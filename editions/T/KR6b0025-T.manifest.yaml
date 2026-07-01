@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6b0025/T/v1
+canonical_location: https://kanripo.org/bkk/KR6b0025/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 福力太子因緣經
+  identifiers:
+    krp: KR6b0025
+    cbeta: T03n0173
+    cbeta_old_id: T03n0173
+    authorityid: CA0001112
+    json_key: T0173
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0173.xml
+    old_id: T03n0173
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0025_000-T.yaml, hash: 'sha256:43f12e788af2b130b6c204aa3d094bdd33dd310e91a692b2675590aa64eaf0bb'}
+  - {seq: 1, filename: KR6b0025_001-T.yaml, hash: 'sha256:faf304f162b1436d35317a2043936df5f2cde33bcfed6ecbc1c8458d459228de'}
+  - {seq: 2, filename: KR6b0025_002-T.yaml, hash: 'sha256:184cee3d1bfcb6b3de973692f19a9e64155bff4f9cbd177de7eda160191751cd'}
+  - {seq: 3, filename: KR6b0025_003-T.yaml, hash: 'sha256:6dfe950b9846766b8e4947d9d90cf4d1d45dd158afa820bbf785daebed4fe1a7'}
+  - {seq: 4, filename: KR6b0025_004-T.yaml, hash: 'sha256:ec50b8368e8cc25ee52c1ea668c171ec4b172b23bc01bb35a32a9fc787b57921'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6b0025_000-T.markers.yaml, hash: 'sha256:667428fca81e9560a6bb00e8188901ce32455a7135099a033d1471d3c2b0dae4'}
+  - {seq: 1, role: markers, filename: assets/KR6b0025_001-T.markers.yaml, hash: 'sha256:dda2c32a7d05d2ced4e0fe5244cc0b932b7dcc816f2516a3d0ccdcf824ffea73'}
+  - {seq: 2, role: markers, filename: assets/KR6b0025_002-T.markers.yaml, hash: 'sha256:2218e633adad1b0b479b65698320ef54e991d5a5778cb3d352eccf8ed1bf971f'}
+  - {seq: 3, role: markers, filename: assets/KR6b0025_003-T.markers.yaml, hash: 'sha256:8f8e800e991714e7add5aeb3ab4bc5c30863e7adac94e8dc48efddcb9956fa42'}
+  - {seq: 4, role: markers, filename: assets/KR6b0025_004-T.markers.yaml, hash: 'sha256:2a5194c66594efb5996997c439851fec99018e60095778b33bf20550655d731f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0025_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2853
+  label: 佛說福力太子因緣經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0025_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3082
+  label: 佛說福力太子因緣經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0025_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 2459
+  label: 佛說福力太子因緣經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0025_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 2291
+  label: 佛說福力太子因緣經卷第四
+  type: juan
+  level: 1
+hash: sha256:1d6129c6dd66f9a3804213b7a6bdc58abceb0752914bd25ccc048fda21cfeb16
