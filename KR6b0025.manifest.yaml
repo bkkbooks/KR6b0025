@@ -31,15 +31,16 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0025_000.yaml, hash: 'sha256:43f12e788af2b130b6c204aa3d094bdd33dd310e91a692b2675590aa64eaf0bb'}
-  - {seq: 1, filename: KR6b0025_001.yaml, hash: 'sha256:4173c4dab091afa0fce79289ba6c9b661cd4931e225b43c30e1b6d55d3613d93'}
-  - {seq: 2, filename: KR6b0025_002.yaml, hash: 'sha256:ac82b65b5313ec1238d98d06c808bab1bb98fbe2a64b280205874228e943d127'}
-  - {seq: 3, filename: KR6b0025_003.yaml, hash: 'sha256:980c5e6df1b473852b99e15f4a0191492de7452d99c5a7bde94a9f46af4e31c3'}
-  - {seq: 4, filename: KR6b0025_004.yaml, hash: 'sha256:11a7fc3f7ed5743684b3fcbd7e3c5f7d2700b94beff4198a418c54b88d196022'}
+  - {seq: 1, filename: KR6b0025_001.yaml, hash: 'sha256:faf304f162b1436d35317a2043936df5f2cde33bcfed6ecbc1c8458d459228de'}
+  - {seq: 2, filename: KR6b0025_002.yaml, hash: 'sha256:184cee3d1bfcb6b3de973692f19a9e64155bff4f9cbd177de7eda160191751cd'}
+  - {seq: 3, filename: KR6b0025_003.yaml, hash: 'sha256:6dfe950b9846766b8e4947d9d90cf4d1d45dd158afa820bbf785daebed4fe1a7'}
+  - {seq: 4, filename: KR6b0025_004.yaml, hash: 'sha256:ec50b8368e8cc25ee52c1ea668c171ec4b172b23bc01bb35a32a9fc787b57921'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6b0025_001.markers.yaml, hash: 'sha256:6bb2fed32683a8721c751aaca0e5659c98bc09a5ad45bdc6fc03ef58585a124e'}
-  - {seq: 2, role: markers, filename: assets/KR6b0025_002.markers.yaml, hash: 'sha256:267725098cbf9fb75aaedc7e00a423da4357f8f634af67b52f9f48aa89678875'}
-  - {seq: 3, role: markers, filename: assets/KR6b0025_003.markers.yaml, hash: 'sha256:4ff028ac0c3c32abba0c88b60954a8c1d3808e7ae39f20ff6cbf5bd83ec98ddf'}
-  - {seq: 4, role: markers, filename: assets/KR6b0025_004.markers.yaml, hash: 'sha256:cc035dd4142aa2c6934499a246b54263709e3684628a820742422ac3162e6b6c'}
+  - {seq: 0, role: markers, filename: assets/KR6b0025_000.markers.yaml, hash: 'sha256:22270f527e30d806e6c339788063710475ac034059303522c268df2fc6276f0a'}
+  - {seq: 1, role: markers, filename: assets/KR6b0025_001.markers.yaml, hash: 'sha256:24609277404af6ea76ec499bf09cfbbdbc1dd8e437ab524694a5e4a4788a00c7'}
+  - {seq: 2, role: markers, filename: assets/KR6b0025_002.markers.yaml, hash: 'sha256:0742e2cc49b01ed39fd75642c01abb4dd7be15e95537d10262caaa2a7a61fd08'}
+  - {seq: 3, role: markers, filename: assets/KR6b0025_003.markers.yaml, hash: 'sha256:9c0d8150379ff0d5c882639e53ab0b97d851657eaa6c5a4cabcd5b2d4b81ced0'}
+  - {seq: 4, role: markers, filename: assets/KR6b0025_004.markers.yaml, hash: 'sha256:f8a162af3f34754089d79a805fca66b2e3d70c0c6cfa2c41b254c95bff97710f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -81,7 +82,4 @@ table_of_contents:
   label: 佛說福力太子因緣經卷第四
   type: juan
   level: 1
-hash: sha256:bf5b940e63596166cffa488fdd8a003c73969f930a38858cca9c007e017657aa
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bb87a87a8d5014b79f4c61d39721cea88aec957ee54d7abc79aeaa1e7a902adf
